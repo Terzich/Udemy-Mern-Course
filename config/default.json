@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://ahmedterzice:qd0FnenZ55S8d7p3@mern-cluster.h0xgikq.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://ahmedterzice:qd0FnenZ55S8d7p3@mern-cluster.h0xgikq.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
